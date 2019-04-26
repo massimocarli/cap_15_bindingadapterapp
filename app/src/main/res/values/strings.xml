@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BindingAdaptersApp</string>
+
+    <string name="counter_format">Counter: %1$d</string>
+</resources>
